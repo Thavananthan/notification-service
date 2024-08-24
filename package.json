@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@elastic/elasticsearch": "^8.14.0",
-    "@thavananthan/eapp-shared": "^0.0.2",
+    "@thavananthan/eapp-shared": "^0.0.3",
     "amqplib": "^0.10.4",
     "caches": "^0.0.1-5",
     "dotenv": "^16.4.5",
